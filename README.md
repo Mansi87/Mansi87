@@ -1,35 +1,20 @@
-<!-- Banner / Pixel GIF -->
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/0963d0e0-dd9f-4734-8150-3faa271b6288)
-" width="300" alt="coding girl" />
-</p>
-
+![Banner](https://github.com/Mansi87/Mansi87/blob/main/coding.webp)
 <h1 align="center">Hi 👋, I'm Mansi</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | SQL </h3>
+<h3 align="center">Turning caffeine and curiosity into backend magic.</h3>
+<h3 align="center">Living in beta — always upgrading 💀</h3>
+<img align="right" alt="Coding" width="400"   src="https://github.com/Mansi87/Mansi87/blob/main/cool.gif?raw=true">
+🔭 I'm currently working on personal projects:   
 
-<p align="center">
- Turning caffeine and curiosity into backend magic. <br>
-  <em>Living in beta — always upgrading 🌱</em>
-</p>
+ ~🌟 Currently building backend apps using Spring Boot and MySQL
 
----
+ ~🌱 Exploring Microservices, JWT Security, and System Design
 
-### 🔭I'm currently working on personal projects:
--  🌟Currently building backend apps using **Spring Boot + MySQL**
-- 🌱 Exploring **Microservices**, **JWT Security**, and **System Design**
--  💬 Ask me about Java language features and syntax, Object-Oriented Programming (OOP) concepts, Java libraries and frameworks, Performance tuning, Java versions and updates.
+ ~💬 Ask me about **Java language features and syntax, OOP concepts, Javaframeworks,Performance tuning, Java versions and updates.**  
 
-### ✨ Fun Fact  
-Trying to learn everything at once 🤹‍♀️
----
-</td>
-<td>
-  <img src="https://i.gifer.com/origin/c2/c212d063fa62200796ce8208459c0056_w200.gif" width="250" />
-</td>
-  </tr>
-</table>
+ ~✨ Fun Fact: **I try to learn everything at once 🤹‍♀**
 
-### 💻Languages and Tools
+
+### 💻Languages and Tools:
 <p align="left">
   <a href="https://www.oracle.com/java/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -47,23 +32,21 @@ Trying to learn everything at once 🤹‍♀️
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mansi87&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mansi87&theme=radical" width="45%" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mansi87&show_icons=true&locale=en&layout=compact" alt="Mansi87" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mansi87&show_icons=true&locale=en" alt="Mansi87" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mansi87&" alt="Mansi87" /></p>
 
 ---
 
 ### 📫 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/mansi87/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://leetcode.com/u/Mansi_65/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="30"/>
   </a>
   <a href="mailto:manupandit053@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="30"/>
   </a>
 </p>
 
