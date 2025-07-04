@@ -1,6 +1,7 @@
 <!-- Banner / Pixel GIF -->
 <p align="center">
-  <img src="https://i.gifer.com/origin/c2/c212d063fa62200796ce8208459c0056_w200.gif" width="300" alt="pixel art" />
+  <img src="![image](https://github.com/user-attachments/assets/0963d0e0-dd9f-4734-8150-3faa271b6288)
+" width="300" alt="coding girl" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mansi</h1>
@@ -16,7 +17,7 @@
 ### 🔭I'm currently working on personal projects:
 -  🌟Currently building backend apps using **Spring Boot + MySQL**
 - 🌱 Exploring **Microservices**, **JWT Security**, and **System Design**
--  💬 Ask me about Java language features and syntax, Object-Oriented Programming (OOP) concepts, Java libraries and frameworks, Performance optimization techniques, Java versions and updates.
+-  💬 Ask me about Java language features and syntax, Object-Oriented Programming (OOP) concepts, Java libraries and frameworks, Performance tuning, Java versions and updates.
 
 ### ✨ Fun Fact  
 Trying to learn everything at once 🤹‍♀️
@@ -54,10 +55,15 @@ Trying to learn everything at once 🤹‍♀️
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mansi87/)
-[![Leetcode](https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Mansi_65/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
-
----
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/mansi87/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://leetcode.com/u/Mansi_65/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+  </a>
+  <a href="mailto:manupandit053@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
+  </a>
+</p>
 
