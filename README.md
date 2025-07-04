@@ -13,13 +13,13 @@
 
 ---
 
-### 🌟 About Me
-- 🔭 Currently building backend apps using **Spring Boot + MySQL**
+### 🔭I'm currently working on personal projects:
+-  🌟Currently building backend apps using **Spring Boot + MySQL**
 - 🌱 Exploring **Microservices**, **JWT Security**, and **System Design**
-- 💡 Passionate about writing clean, efficient code
-- 🧠 Solving DSA on LeetCode (Striver’s list in progress)
-- 🌸 Always learning, always growing
+-  💬 Ask me about Java language features and syntax, Object-Oriented Programming (OOP) concepts, Java libraries and frameworks, Performance optimization techniques, Java versions and updates.
 
+### ✨ Fun Fact  
+Trying to learn everything at once 🤹‍♀️
 ---
 </td>
 <td>
@@ -51,7 +51,4 @@
 
 ---
 
-### ✨ Fun Fact
-I debug with chai ☕ and refactor with playlists 🎧  
-Still trying to learn everything at once 🤹‍♀️
 
