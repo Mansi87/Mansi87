@@ -1,9 +1,12 @@
-![Banner](https://github.com/Mansi87/Mansi87/blob/main/coding.webp)
+<p align="center">
+  <img src="https://github.com/Mansi87/Mansi87/blob/main/coding.webp?raw=true" width="100%" alt="logo" />
+</p>
 <h1 align="center">Hi 👋, I'm Mansi</h1>
 <h3 align="center">Turning caffeine and curiosity into backend magic.</h3>
 <h3 align="center">Living in beta — always upgrading 💀</h3>
 <img align="right" alt="Coding" width="400"   src="https://github.com/Mansi87/Mansi87/blob/main/cool.gif?raw=true">
-🔭 I'm currently working on personal projects:   
+<p>
+🔭 I'm currently working on personal projects 
 
  ~🌟 Currently building backend apps using Spring Boot and MySQL
 
@@ -11,10 +14,10 @@
 
  ~💬 Ask me about **Java language features and syntax, OOP concepts, Javaframeworks,Performance tuning, Java versions and updates.**  
 
- ~✨ Fun Fact: **I try to learn everything at once 🤹‍♀**
+ ~ ⚡​Fun Fact **I try to learn everything at once :)**
+</p>
 
-
-### 💻Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.oracle.com/java/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -31,7 +34,7 @@
 </p>
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mansi87&show_icons=true&locale=en&layout=compact" alt="Mansi87" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mansi87&show_icons=true&locale=en" alt="Mansi87" /></p>
@@ -40,7 +43,8 @@
 
 ---
 
-### 📫 Connect with me:
+
+<h3 align="left">📫Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mansi87/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="30"/>
