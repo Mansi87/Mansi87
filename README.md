@@ -6,34 +6,73 @@
 <h3 align="center">Living in beta — always upgrading 💀</h3>
 <img align="right" alt="Coding" width="400"   src="https://github.com/Mansi87/Mansi87/blob/main/cool.gif?raw=true">
 <p>
-🔭 I'm currently working on personal projects 
+🔭 Currently building production-ready backend applications 
 
- ~🌟 Currently building backend apps using Spring Boot and MySQL
+ ~🌟 Java Backend Developer | Spring Boot | REST APIs | PostgreSQL | Microservices
 
- ~🌱 Exploring Microservices, JWT Security, and System Design
+ ~🌱 Exploring Microservices, Kubernetes, AWS & System Design
 
- ~💬 Ask me about **Java language features and syntax, OOP concepts, Javaframeworks,Performance tuning, Java versions and updates.**  
+ ~💬 Ask me about **Java, Spring Boot, REST APIs, Spring Security, PostgreSQL, JWT Authentication and Backend Architecture** 
 
- ~ ⚡​Fun Fact **I try to learn everything at once :)**
+ ~ ⚡​Fun Fact **I try to learn everything :)**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
-  <a href="https://www.oracle.com/java/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
+
+<a href="https://www.oracle.com/java/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://spring.io/projects/spring-boot">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.postgresql.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://react.dev">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://flask.palletsprojects.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.docker.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://github.com/features/actions">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://maven.apache.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://kubernetes.io/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
+</a>
+
+<a href="https://aws.amazon.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+</a>
+
 </p>
 ---
 
