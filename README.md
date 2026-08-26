@@ -77,7 +77,9 @@
 ---
 
 ###  GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mansi87&show_icons=true&locale=en&layout=compact" alt="Mansi87" /></p>
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=Mansi87" alt="Mansi's GitHub Stats" />
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mansi87&show_icons=true&locale=en" alt="Mansi87" /></p>
 
